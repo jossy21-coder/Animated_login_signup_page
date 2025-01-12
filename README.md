@@ -49,9 +49,9 @@ Launch the project:
 Open animated login and signup form.html in your preferred browser.
 Preview
 Login Form
-<img src="path-to-login-preview-image" alt="Login Form Preview" width="600"/>
+<img src="login_form_2.jpg" alt="Login Form Preview" width="600"/>
 Signup Form
-<img src="path-to-signup-preview-image" alt="Signup Form Preview" width="600"/>
+<img src="signup_form_1.jpg" alt="Signup Form Preview" width="600"/>
 
 ### Technologies Used
 HTML5: Structuring the content.
