@@ -48,9 +48,11 @@ Copy code: cd animated-login-signup-page
 Launch the project:
 Open animated login and signup form.html in your preferred browser.
 Preview
-Login Form
+
+#### Login Form
 <img src="login_form_2.jpg" alt="Login Form Preview" width="600"/>
-Signup Form
+
+#### Signup Form
 <img src="signup_form_1.jpg" alt="Signup Form Preview" width="600"/>
 
 ### Technologies Used
