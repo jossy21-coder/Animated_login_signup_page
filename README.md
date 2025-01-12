@@ -7,14 +7,18 @@ This repository features an animated login and signup form built with HTML, CSS,
 Interactive Login and Signup Forms:
 Smooth animations for transitioning between login and signup forms.
 Toggle password visibility for secure input handling.
+
 Responsive Design:
 Fully responsive layout, suitable for devices of various screen sizes.
+
 Visual Enhancements:
 Light sea-green color scheme and rounded UI elements for a modern look.
 Decorative background animations for added aesthetics.
+
 Dynamic Form Controls:
 Real-time label animations based on input focus and validation.
-File Structure
+
+### File Structure
 HTML: animated login and signup form.html
 Contains the structure of the page, including form elements, background animations, and navigation links.
 CSS: animated login and signup form.css
@@ -35,12 +39,12 @@ The layout adapts seamlessly to various screen sizes.
 ### Setup Instructions
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/jossy21-coder/animated_login_signup_page.git
+Copy code: git clone https://github.com/jossy21-coder/animated_login_signup_page.git
+
 Open the project folder:
 bash
-Copy code
-cd animated-login-signup-page
+Copy code: cd animated-login-signup-page
+
 Launch the project:
 Open animated login and signup form.html in your preferred browser.
 Preview
