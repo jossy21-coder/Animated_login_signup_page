@@ -52,8 +52,8 @@ Login Form
 <img src="path-to-login-preview-image" alt="Login Form Preview" width="600"/>
 Signup Form
 <img src="path-to-signup-preview-image" alt="Signup Form Preview" width="600"/>
-Technologies Used
+
+### Technologies Used
 HTML5: Structuring the content.
 CSS3: Adding styles, animations, and responsive design.
 JavaScript (ES6): Providing interactive functionalities.
-Feel free to customize the content as per your project and ensure to replace placeholder paths (e.g., path-to-login-preview-image) with actual image URLs if you plan to add previews. Let me know if you'd like further assistance!
